@@ -1,0 +1,13 @@
+/Volumes/praca/praca - web developer/moje projekty/aplikacje/magic_8_ball/magic_8_ball/bin/Debug/netcoreapp3.1/magic_8_ball.deps.json
+/Volumes/praca/praca - web developer/moje projekty/aplikacje/magic_8_ball/magic_8_ball/bin/Debug/netcoreapp3.1/magic_8_ball.runtimeconfig.json
+/Volumes/praca/praca - web developer/moje projekty/aplikacje/magic_8_ball/magic_8_ball/bin/Debug/netcoreapp3.1/magic_8_ball.runtimeconfig.dev.json
+/Volumes/praca/praca - web developer/moje projekty/aplikacje/magic_8_ball/magic_8_ball/bin/Debug/netcoreapp3.1/magic_8_ball.dll
+/Volumes/praca/praca - web developer/moje projekty/aplikacje/magic_8_ball/magic_8_ball/bin/Debug/netcoreapp3.1/magic_8_ball.pdb
+/Volumes/praca/praca - web developer/moje projekty/aplikacje/magic_8_ball/magic_8_ball/obj/Debug/netcoreapp3.1/magic_8_ball.csproj.AssemblyReference.cache
+/Volumes/praca/praca - web developer/moje projekty/aplikacje/magic_8_ball/magic_8_ball/obj/Debug/netcoreapp3.1/magic_8_ball.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/praca/praca - web developer/moje projekty/aplikacje/magic_8_ball/magic_8_ball/obj/Debug/netcoreapp3.1/magic_8_ball.AssemblyInfoInputs.cache
+/Volumes/praca/praca - web developer/moje projekty/aplikacje/magic_8_ball/magic_8_ball/obj/Debug/netcoreapp3.1/magic_8_ball.AssemblyInfo.cs
+/Volumes/praca/praca - web developer/moje projekty/aplikacje/magic_8_ball/magic_8_ball/obj/Debug/netcoreapp3.1/magic_8_ball.csproj.CoreCompileInputs.cache
+/Volumes/praca/praca - web developer/moje projekty/aplikacje/magic_8_ball/magic_8_ball/obj/Debug/netcoreapp3.1/magic_8_ball.dll
+/Volumes/praca/praca - web developer/moje projekty/aplikacje/magic_8_ball/magic_8_ball/obj/Debug/netcoreapp3.1/magic_8_ball.pdb
+/Volumes/praca/praca - web developer/moje projekty/aplikacje/magic_8_ball/magic_8_ball/obj/Debug/netcoreapp3.1/magic_8_ball.genruntimeconfig.cache

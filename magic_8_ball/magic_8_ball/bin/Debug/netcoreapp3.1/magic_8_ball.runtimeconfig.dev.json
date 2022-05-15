@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/chrome-dome/.dotnet/store/|arch|/|tfm|",
+      "/Users/chrome-dome/.nuget/packages"
+    ]
+  }
+}
